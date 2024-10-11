@@ -1,11 +1,22 @@
 ---
-title: "My Research Interest"
-author: "Mariana Buitrago, __buitragm@mcmaster.ca__"
-date: "2024-09-13"
-output: html_document
+output: github_document
 ---
 
-# Metabolomics and nutrition 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# my-GEO712-repository
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+># Metabolomics and nutrition 
 
 Finding biomarkers of **Omega-3** intake in serum and urine as a path to determine if it's possible to relate this diet biomarker with cardiovascular diseases risk. The analytical technique I will employ will be LC (liquid chromatography) coupled to mass spectrometry for samples from a randomized clinical trial.
 
@@ -13,6 +24,8 @@ This is an image:
 
 ![](\images\omega3.png)
 
+This is the same image again.
+![](\images\omega3.png)
 
 
 # Favorites
